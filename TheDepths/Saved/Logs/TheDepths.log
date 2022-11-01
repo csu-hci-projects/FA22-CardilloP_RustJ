@@ -812,3 +812,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.01-18.05.53:281][128]AssetCheck: New page: Asset Save: VRTemplateMap
 [2022.11.01-18.05.53:281][128]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2022.11.01-18.06.35:431][536]LogDerivedDataCache: C:/Users/feo2i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.210 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.01-18.13.03:347][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.01-18.13.05:268][286]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.01-18.13.05:283][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.01-18.13.05:290][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.01-18.13.05:297][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.01-18.13.12:337][493]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/feo2i/Downloads/28693__infobandit__sonar.wav)
+[2022.11.01-18.13.12:346][493]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA00_StreamCache_Ver5027_MEM_65536MaxChnkSize_0000000 wave 28693__infobandit__sonar...
+[2022.11.01-18.13.12:388][493]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1017056 while cooking SoundWave /Game/Sounds/28693__infobandit__sonar.28693__infobandit__sonar.
+[2022.11.01-18.13.12:389][493]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/28693__infobandit__sonar.28693__infobandit__sonar: 262144
+[2022.11.01-18.13.17:745][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.01-18.13.20:251][ 75]LogSlate: Window 'Save Content' being destroyed
+[2022.11.01-18.13.20:293][ 75]LogSavePackage: Moving output files for package: /Game/Sounds/28693__infobandit__sonar
+[2022.11.01-18.13.20:293][ 75]LogSavePackage: Moving '../../../../../../School Stuffs/Classes/310H/Project/theDepths/TheDepths/Saved/28693__infobandit__sonar0178C6F646F1AFE29096CF84BCA22456.tmp' to '../../../../../../School Stuffs/Classes/310H/Project/theDepths/TheDepths/Content/Sounds/28693__infobandit__sonar.uasset'
+[2022.11.01-18.13.20:305][ 75]AssetCheck: New page: Asset Save: 28693__infobandit__sonar
+[2022.11.01-18.13.20:305][ 75]LogContentValidation: Display: Validating SoundWave /Game/Sounds/28693__infobandit__sonar.28693__infobandit__sonar
