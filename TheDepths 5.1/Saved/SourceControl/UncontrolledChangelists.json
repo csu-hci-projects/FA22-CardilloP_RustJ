@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/Depths4Real/CardilloP_RustJ/TheDepths 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"F:/Depths4Real/CardilloP_RustJ/TheDepths 5.1/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"F:/Depths4Real/CardilloP_RustJ/TheDepths 5.1/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"F:/Depths4Real/CardilloP_RustJ/TheDepths 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
 	]
