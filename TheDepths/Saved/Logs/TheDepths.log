@@ -3042,3 +3042,44 @@ Script Stack (0 frames):
 [2022.12.05-06.57.51:189][928]LogFileHelpers: Saving map 'VRTemplateMap' took 0.093
 [2022.12.05-06.57.51:204][928]AssetCheck: New page: Asset Save: VRTemplateMap
 [2022.12.05-06.57.51:204][928]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.05-06.58.40:598][674]Cmd: TRANSACTION UNDO
+[2022.12.05-06.58.40:599][674]LogEditorTransaction: Undo Move Elements
+[2022.12.05-06.58.59:590][774]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/my-switch/Switch_BP.Switch_BP
+[2022.12.05-06.58.59:590][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-06.59.56:430][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/my-switch/Switch_BP" FILE="../../../../../../Users/fireb/Documents/Project/TheDepths/Content/my-switch/Switch_BP.uasset" SILENT=true
+[2022.12.05-06.59.56:460][471]LogSavePackage: Moving output files for package: /Game/my-switch/Switch_BP
+[2022.12.05-06.59.56:461][471]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/Switch_BP0EB9088D4795E8905275FFBC27A249A7.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Content/my-switch/Switch_BP.uasset'
+[2022.12.05-06.59.56:477][471]AssetCheck: New page: Asset Save: Switch_BP
+[2022.12.05-06.59.56:477][471]LogContentValidation: Display: Validating Blueprint /Game/my-switch/Switch_BP.Switch_BP
+[2022.12.05-06.59.56:918][517]BlueprintLog: New page: Compile Switch_BP
+[2022.12.05-06.59.57:010][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.05-07.00.15:879][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.12.05-07.00.15:931][680]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.05-07.00.15:932][680]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/VRTemplateMap98B4DE804E8498E7C609E2B9B55D1DFB.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.05-07.00.15:945][680]LogFileHelpers: No new changes to save!
+[2022.12.05-07.00.15:965][680]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.05-07.00.15:965][680]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.05-07.00.16:895][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.05-07.01.58:529][826]BlueprintLog: New page: Compile VRTemplateMap
+[2022.12.05-07.01.58:604][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.05-07.01.59:181][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.05-07.01.59:232][867]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.05-07.01.59:233][867]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/VRTemplateMap138248AA4488397FA271E7BF162BDF52.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.05-07.01.59:244][867]LogFileHelpers: No new changes to save!
+[2022.12.05-07.01.59:244][867]LogFileHelpers: Saving map 'VRTemplateMap' took 0.102
+[2022.12.05-07.01.59:260][867]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.05-07.01.59:260][867]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.05-07.02.16:626][750]BlueprintLog: New page: Compile Switch_BP
+[2022.12.05-07.02.16:708][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.05-07.02.17:441][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/my-switch/Switch_BP" FILE="../../../../../../Users/fireb/Documents/Project/TheDepths/Content/my-switch/Switch_BP.uasset" SILENT=true
+[2022.12.05-07.02.17:471][805]LogSavePackage: Moving output files for package: /Game/my-switch/Switch_BP
+[2022.12.05-07.02.17:472][805]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/Switch_BPB662283840B5E729680F36BB30DC051F.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Content/my-switch/Switch_BP.uasset'
+[2022.12.05-07.02.17:488][805]AssetCheck: New page: Asset Save: Switch_BP
+[2022.12.05-07.02.17:488][805]LogContentValidation: Display: Validating Blueprint /Game/my-switch/Switch_BP.Switch_BP
+[2022.12.05-07.02.29:895][974]BlueprintLog: New page: Compile Switch_BP
+[2022.12.05-07.02.29:979][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.05-07.02.30:507][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/my-switch/Switch_BP" FILE="../../../../../../Users/fireb/Documents/Project/TheDepths/Content/my-switch/Switch_BP.uasset" SILENT=true
+[2022.12.05-07.02.30:538][  4]LogSavePackage: Moving output files for package: /Game/my-switch/Switch_BP
+[2022.12.05-07.02.30:538][  4]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/Switch_BP4ECBF9BC49F0C3C2FB29E7B0634F6972.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Content/my-switch/Switch_BP.uasset'
+[2022.12.05-07.02.30:554][  4]AssetCheck: New page: Asset Save: Switch_BP
+[2022.12.05-07.02.30:554][  4]LogContentValidation: Display: Validating Blueprint /Game/my-switch/Switch_BP.Switch_BP
