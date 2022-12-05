@@ -785,3 +785,35 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.04-19.13.23:791][972]LogSlate: Window 'BP_RepairTool' being destroyed
 [2022.12.04-19.13.23:797][972]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2022.12.04-19.13.23:798][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.14.55:761][713]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.419 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-19.23.15:207][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.04-19.23.15:239][272]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2022.12.04-19.23.15:240][272]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/VRTemplateMap_Auto15C9DA8AD467C3F43B2338BAF025E5913.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2022.12.04-19.23.15:244][272]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.062
+[2022.12.04-19.23.15:244][272]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2022.12.04-20.14.57:073][ 27]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.413 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-21.14.56:108][775]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.503 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-22.14.56:080][573]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.408 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-23.14.55:766][368]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.383 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-00.14.55:774][166]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.411 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-01.14.55:858][964]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.396 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-02.14.55:822][762]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.400 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-03.14.55:934][560]LogDerivedDataCache: C:/Users/fireb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.394 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-03.50.20:881][933]LogHttp: Warning: 00000500AEC72800: invalid HTTP response code received. URL: https://68.234.151.22:50443/, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.12.05-03.50.20:882][933]LogHttp: Warning: 00000500AEC72800: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.12.05-03.50.20:882][933]LogHttp: Warning: 00000500AEC72800: libcurl info message cache 0 (  Trying 68.234.151.22...)
+[2022.12.05-03.50.20:882][933]LogHttp: Warning: 00000500AEC72800: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.12.05-03.50.20:882][933]LogHttp: Warning: 00000500AEC72800: libcurl info message cache 2 (connect to 68.234.151.22 port 50443 failed: Timed out)
+[2022.12.05-03.50.20:882][933]LogHttp: Warning: 00000500AEC72800: libcurl info message cache 3 (Failed to connect to 68.234.151.22 port 50443: Timed out)
+[2022.12.05-03.50.20:882][933]LogHttp: Warning: 00000500AEC72800: libcurl info message cache 4 (Closing connection 1)
+[2022.12.05-03.50.20:883][933]LogHoloLensTargetPlatform: Warning: HoloLens device automatic connect attempt failed without http response. Previous log lines may contain more information about the failed request (often bad ip/port). You may be able to use 'add unlisted device' to connect
+[2022.12.05-03.50.21:217][934]LogHttp: Warning: 00000500AEC77D00: invalid HTTP response code received. URL: https://68.234.151.22:50443/, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.12.05-03.50.21:217][934]LogHttp: Warning: 00000500AEC77D00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.12.05-03.50.21:217][934]LogHttp: Warning: 00000500AEC77D00: libcurl info message cache 0 (Found bundle for host 68.234.151.22: 0x500630d0690 [serially])
+[2022.12.05-03.50.21:217][934]LogHttp: Warning: 00000500AEC77D00: libcurl info message cache 1 (Hostname 68.234.151.22 was found in DNS cache)
+[2022.12.05-03.50.21:219][934]LogHttp: Warning: 00000500AEC77D00: libcurl info message cache 2 (  Trying 68.234.151.22...)
+[2022.12.05-03.50.21:219][934]LogHttp: Warning: 00000500AEC77D00: libcurl info message cache 3 (TCP_NODELAY set)
+[2022.12.05-03.50.21:219][934]LogHttp: Warning: 00000500AEC77D00: libcurl info message cache 4 (connect to 68.234.151.22 port 50443 failed: Timed out)
+[2022.12.05-03.50.21:219][934]LogHttp: Warning: 00000500AEC77D00: libcurl info message cache 5 (Failed to connect to 68.234.151.22 port 50443: Timed out)
+[2022.12.05-03.50.21:219][934]LogHttp: Warning: 00000500AEC77D00: libcurl info message cache 6 (Closing connection 2)
+[2022.12.05-03.50.21:219][934]LogHoloLensTargetPlatform: Warning: HoloLens device automatic connect attempt failed without http response. Previous log lines may contain more information about the failed request (often bad ip/port). You may be able to use 'add unlisted device' to connect
