@@ -3083,3 +3083,271 @@ Script Stack (0 frames):
 [2022.12.05-07.02.30:538][  4]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/Switch_BP4ECBF9BC49F0C3C2FB29E7B0634F6972.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Content/my-switch/Switch_BP.uasset'
 [2022.12.05-07.02.30:554][  4]AssetCheck: New page: Asset Save: Switch_BP
 [2022.12.05-07.02.30:554][  4]LogContentValidation: Display: Validating Blueprint /Game/my-switch/Switch_BP.Switch_BP
+[2022.12.05-07.03.16:606][640]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-07.03.16:613][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-07.03.16:614][640]PIE: New page: PIE session: VRTemplateMap (Dec 4, 2022, 5:03:16 PM)
+[2022.12.05-07.03.16:614][640]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'Albedo' assigned texture "T_ComputerMonitor_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'AORM' assigned texture "T_ComputerMonitor_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'Albedo' assigned texture "T_ComputerParts_C05_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'AORM' assigned texture "T_ComputerParts_C05_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'Albedo' assigned texture "T_ComputerSpeakers_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'AORM' assigned texture "T_ComputerSpeakers_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'Albedo' assigned texture "T_ComputerParts_C05_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'AORM' assigned texture "T_ComputerParts_C05_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_B05" parameter 'Albedo' assigned texture "T_ComputerParts_B05_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_B05" parameter 'AORM' assigned texture "T_ComputerParts_B05_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'Albedo' assigned texture "T_ComputerSpeakers_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'AORM' assigned texture "T_ComputerSpeakers_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'Albedo' assigned texture "T_Toolbox_Trays_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'AORM' assigned texture "T_Toolbox_Trays_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'Albedo' assigned texture "T_ComputerMonitor_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'AORM' assigned texture "T_ComputerMonitor_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'Albedo' assigned texture "T_Toolbox_Trays_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:624][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'AORM' assigned texture "T_Toolbox_Trays_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'Albedo' assigned texture "T_ComputerParts_A04_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'AORM' assigned texture "T_ComputerParts_A04_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_B01" parameter 'Albedo' assigned texture "T_DisksAndFloppys_C01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_B01" parameter 'AORM' assigned texture "T_DisksAndFloppys_C01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'Albedo' assigned texture "T_DeskLamp_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'AORM' assigned texture "T_DeskLamp_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A02" parameter 'Albedo' assigned texture "T_ComputerMonitor_A02_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A02" parameter 'AORM' assigned texture "T_ComputerMonitor_A02_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_D01" parameter 'Albedo' assigned texture "T_DisksAndFloppys_E01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_D01" parameter 'AORM' assigned texture "T_DisksAndFloppys_E01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'Albedo' assigned texture "T_ComputerParts_A04_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'AORM' assigned texture "T_ComputerParts_A04_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'Albedo' assigned texture "T_ComputerParts_A04_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'AORM' assigned texture "T_ComputerParts_A04_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'Albedo' assigned texture "T_DeskLamp_A01_C" requires non-virtual texture
+[2022.12.05-07.03.16:625][640]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'AORM' assigned texture "T_DeskLamp_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.16:627][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013316s)
+[2022.12.05-07.03.16:627][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.013389s)
+[2022.12.05-07.03.16:627][640]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-07.03.16:628][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-07.03.16:628][640]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.12.05-07.03.16:628][640]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2022.12.05-07.03.16:667][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.05-07.03.16:670][640]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.05-07.03.16:670][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-07.03.16:670][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-07.03.16:670][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-07.03.16:670][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-07.03.16:670][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-07.03.16:670][640]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-07.03.16:670][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-07.03.16:670][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-07.03.16:670][640]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-07.03.16:670][640]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-07.03.16:670][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-07.03.16:673][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-07.03.16:690][640]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.12.05-07.03.16:690][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-07.03.16:690][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-07.03.16:690][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-07.03.16:691][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.12.05-07.03.16:691][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.12.05-07.03.16:693][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.12.05-07.03.16:693][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.12.05-07.03.16:693][640]LogInit: FAudioDevice initialized.
+[2022.12.05-07.03.16:693][640]LogAudio: Display: Audio Device (ID: 16) registered with world 'VRTemplateMap'.
+[2022.12.05-07.03.16:706][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-07.03.16:747][640]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-07.03.16:753][640]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.12.05-00.03.16
+[2022.12.05-07.03.16:753][640]LogWorld: Bringing up level for play took: 0.005985
+[2022.12.05-07.03.16:755][640]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.12.05-07.03.16:756][640]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-07.03.16:757][640]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-07.03.16:760][640]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-07.03.16:761][640]Cmd: vr.PixelDensity 1.0
+[2022.12.05-07.03.16:761][640]vr.PixelDensity = "1"
+[2022.12.05-07.03.16:769][640]PIE: Server logged in
+[2022.12.05-07.03.16:774][640]PIE: Play in editor total start time 0.16 seconds.
+[2022.12.05-07.03.16:802][640]LogViewport: Scene viewport resized to 1268x720, mode Windowed.
+[2022.12.05-07.03.16:830][640]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-07.03.29:316][605]Cmd: LevelEditor.ToggleImmersive
+[2022.12.05-07.03.29:371][608]LogViewport: Scene viewport resized to 499x245, mode Windowed.
+[2022.12.05-07.03.29:406][609]LogViewport: Scene viewport resized to 245x82, mode Windowed.
+[2022.12.05-07.03.29:446][610]LogViewport: Scene viewport resized to 163x30, mode Windowed.
+[2022.12.05-07.03.29:474][611]LogViewport: Scene viewport resized to 160x28, mode Windowed.
+[2022.12.05-07.03.50:299][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-07.03.50:299][119]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.05-07.03.50:331][119]LogViewport: Scene viewport resized to 1920x1040, mode Windowed.
+[2022.12.05-07.03.50:380][119]LogSlate: Window 'TheDepths Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-07.03.50:384][119]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-07.03.50:385][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-07.03.50:415][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-07.03.50:422][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-07.03.50:461][119]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-07.03.50:461][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.05-07.03.50:463][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.12.05-07.03.50:469][119]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-07.03.50:469][119]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-07.03.50:471][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.05-07.03.50:522][120]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.12.05-07.03.53:791][465]LogViewport: Scene viewport resized to 760x449, mode Windowed.
+[2022.12.05-07.03.53:832][465]LogViewport: Scene viewport resized to 760x449, mode Windowed.
+[2022.12.05-07.03.53:872][465]LogViewport: Scene viewport resized to 760x449, mode Windowed.
+[2022.12.05-07.03.53:906][465]LogViewport: Scene viewport resized to 1865x1021, mode Windowed.
+[2022.12.05-07.03.53:956][466]LogViewport: Scene viewport resized to 1527x903, mode Windowed.
+[2022.12.05-07.03.53:990][467]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.12.05-07.03.55:799][678]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-07.03.55:806][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-07.03.55:807][678]PIE: New page: PIE session: VRTemplateMap (Dec 4, 2022, 5:03:55 PM)
+[2022.12.05-07.03.55:843][678]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'Albedo' assigned texture "T_ComputerMonitor_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'AORM' assigned texture "T_ComputerMonitor_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'Albedo' assigned texture "T_ComputerParts_C05_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'AORM' assigned texture "T_ComputerParts_C05_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'Albedo' assigned texture "T_ComputerSpeakers_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'AORM' assigned texture "T_ComputerSpeakers_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'Albedo' assigned texture "T_ComputerParts_C05_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_C05" parameter 'AORM' assigned texture "T_ComputerParts_C05_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_B05" parameter 'Albedo' assigned texture "T_ComputerParts_B05_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerPrinter_B05" parameter 'AORM' assigned texture "T_ComputerParts_B05_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'Albedo' assigned texture "T_ComputerSpeakers_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerSpeakers_A01" parameter 'AORM' assigned texture "T_ComputerSpeakers_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'Albedo' assigned texture "T_Toolbox_Trays_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'AORM' assigned texture "T_Toolbox_Trays_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'Albedo' assigned texture "T_ComputerMonitor_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A01" parameter 'AORM' assigned texture "T_ComputerMonitor_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'Albedo' assigned texture "T_Toolbox_Trays_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Trays_A01" parameter 'AORM' assigned texture "T_Toolbox_Trays_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'Albedo' assigned texture "T_ComputerParts_A04_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'AORM' assigned texture "T_ComputerParts_A04_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:853][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_B01" parameter 'Albedo' assigned texture "T_DisksAndFloppys_C01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_B01" parameter 'AORM' assigned texture "T_DisksAndFloppys_C01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'Albedo' assigned texture "T_DeskLamp_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'AORM' assigned texture "T_DeskLamp_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A02" parameter 'Albedo' assigned texture "T_ComputerMonitor_A02_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerMonitor_A02" parameter 'AORM' assigned texture "T_ComputerMonitor_A02_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_D01" parameter 'Albedo' assigned texture "T_DisksAndFloppys_E01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DisksAndFloppys_D01" parameter 'AORM' assigned texture "T_DisksAndFloppys_E01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'Albedo' assigned texture "T_ComputerCards_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerCards_A01" parameter 'AORM' assigned texture "T_ComputerCards_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'Albedo' assigned texture "T_ComputerParts_A04_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'AORM' assigned texture "T_ComputerParts_A04_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'Albedo' assigned texture "T_ComputerParts_A04_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_ComputerParts_A04" parameter 'AORM' assigned texture "T_ComputerParts_A04_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'Albedo' assigned texture "T_Toolbox_Pack_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_Toolbox_Pack_A01" parameter 'AORM' assigned texture "T_Toolbox_Pack_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'Albedo' assigned texture "T_DeskLamp_A01_C" requires non-virtual texture
+[2022.12.05-07.03.55:854][678]LogMaterial: Error: MaterialInstance "MI_DeskLamp_A01" parameter 'AORM' assigned texture "T_DeskLamp_A01_AORM" requires non-virtual texture
+[2022.12.05-07.03.55:856][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013212s)
+[2022.12.05-07.03.55:856][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.013316s)
+[2022.12.05-07.03.55:856][678]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-07.03.55:856][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-07.03.55:856][678]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.12.05-07.03.55:857][678]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2022.12.05-07.03.55:896][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.12.05-07.03.55:898][678]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.12.05-07.03.55:899][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-07.03.55:899][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-07.03.55:899][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-07.03.55:899][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-07.03.55:899][678]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-07.03.55:899][678]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-07.03.55:899][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-07.03.55:899][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-07.03.55:899][678]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-07.03.55:899][678]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-07.03.55:899][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-07.03.55:901][678]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-07.03.55:919][678]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.12.05-07.03.55:920][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-07.03.55:920][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-07.03.55:920][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-07.03.55:921][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.12.05-07.03.55:921][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.12.05-07.03.55:923][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.12.05-07.03.55:923][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.12.05-07.03.55:923][678]LogInit: FAudioDevice initialized.
+[2022.12.05-07.03.55:923][678]LogAudio: Display: Audio Device (ID: 17) registered with world 'VRTemplateMap'.
+[2022.12.05-07.03.55:939][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-07.03.55:997][678]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-07.03.56:002][678]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.12.05-00.03.56
+[2022.12.05-07.03.56:003][678]LogWorld: Bringing up level for play took: 0.005752
+[2022.12.05-07.03.56:005][678]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.12.05-07.03.56:006][678]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-07.03.56:007][678]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-07.03.56:008][678]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-07.03.56:009][678]Cmd: vr.PixelDensity 1.0
+[2022.12.05-07.03.56:009][678]vr.PixelDensity = "1"
+[2022.12.05-07.03.56:013][678]PIE: Server logged in
+[2022.12.05-07.03.56:015][678]PIE: Play in editor total start time 0.209 seconds.
+[2022.12.05-07.03.56:039][678]LogViewport: Scene viewport resized to 1268x720, mode Windowed.
+[2022.12.05-07.03.56:067][678]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-07.04.07:960][588]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.12.05-07.04.18:850][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-07.04.18:850][387]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.05-07.04.18:909][387]LogSlate: Window 'TheDepths Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-07.04.18:915][387]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-07.04.18:916][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-07.04.18:930][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-07.04.18:939][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-07.04.18:980][387]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-07.04.18:980][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.12.05-07.04.18:982][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.12.05-07.04.18:988][387]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-07.04.18:988][387]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-07.04.18:991][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.05-07.04.19:045][388]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.12.05-07.04.39:963][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.05-07.04.40:015][825]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.05-07.04.40:015][825]LogSavePackage: Moving '../../../../../../Users/fireb/Documents/Project/TheDepths/Saved/VRTemplateMap67ED40A849B6D1BEAC24C186715D6E77.tmp' to '../../../../../../Users/fireb/Documents/Project/TheDepths/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.05-07.04.40:027][825]LogFileHelpers: No new changes to save!
+[2022.12.05-07.04.40:042][825]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.05-07.04.40:042][825]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.05-07.04.40:693][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.05-07.04.41:762][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.05-07.04.43:149][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.05-07.04.43:889][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.05-07.04.44:051][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
